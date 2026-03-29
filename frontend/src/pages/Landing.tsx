@@ -112,7 +112,7 @@ export default function Landing() {
             variant="outline"
             onClick={() =>
               window.open(
-                "https://github.com/yourusername/remitai",
+                "https://github.com/HarshS1611/RemitAI.git",
                 "_blank"
               )
             }
